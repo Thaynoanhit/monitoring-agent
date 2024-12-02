@@ -1,0 +1,5 @@
+/target
+/myenv
+.env
+/logs
+/src/monitoring-frontend/node_modules
